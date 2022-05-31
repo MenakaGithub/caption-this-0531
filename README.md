@@ -2,7 +2,7 @@
 
 - Class Date: May 31 - June 1 2022
 - Facilitator: @bburrier
-- Hello World! :rocket:
+- Hello World from Bjoern
 
 ## Class Resources
 
